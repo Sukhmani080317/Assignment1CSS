@@ -4,8 +4,6 @@ Welcome to the repository of my personal portfolio. This project showcases my sk
 
 Portfolio Screenshot
 
-Replace url_to_a_screenshot_of_your_site.png with an actual screenshot of your site if you have one. This will provide visitors a quick visual of your portfolio.
-
 Features
 Home: Introduction to me and a quick highlight of my skills.
 About: Dive deep into my journey, background, and my passion for programming.
@@ -19,7 +17,7 @@ Installation & Set Up
 Clone this repository:
 bash
 
-git clone https://github.com/Sukhmani080317/your_repo_name.git
+git clone [https://github.com/Sukhmani080317/your_repo_name.git](https://github.com/Sukhmani080317/Assignment1CSS.git)
 Navigate into the directory:
 bash
 
